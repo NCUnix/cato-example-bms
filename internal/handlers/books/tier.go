@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ncuhome/cato/core/httpc"
+	"github.com/NCUnix/cato/core/httpc"
 
 	booksinspect "cato-example-bms/internal/inspect/books"
 )

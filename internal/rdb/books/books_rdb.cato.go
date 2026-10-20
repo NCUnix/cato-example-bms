@@ -8,7 +8,7 @@ import (
 	model "cato-example-bms/internal/models/database/books"
 
 	"github.com/Masterminds/squirrel"
-	"github.com/ncuhome/cato/core/rdb"
+	"github.com/NCUnix/cato/core/rdb"
 )
 
 type RdbRepoBooks struct {
